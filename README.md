@@ -1,2 +1,29 @@
-# LLM-Code-Practice
-Git and LLM Code Analysis
+
+# 软件工程实践作业
+
+## 一、项目介绍
+
+这是我在学习软件工程课程时创建的 GitHub 仓库。
+
+## 二、实践目标
+
+1. 学习 Git 和 GitHub 的基本操作
+2. 了解常见的代码分析工具
+3. 体验大语言模型辅助代码注释
+4. 学习 Python 自动化测试
+5. 分析大模型在软件开发中的作用
+
+## 三、使用的工具
+
+- GitHub
+- Git
+- Python
+- VS Code
+- ChatGPT
+- pytest
+
+## 四、实践记录
+
+- 已注册并登录 GitHub
+- 已创建第一个代码仓库
+- 正在学习代码版本管理
